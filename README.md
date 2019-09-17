@@ -13,7 +13,8 @@ The core of the implementation is an API for GPIO and I2C, based on the WebGPIO 
 ## CHIRIMEN for TY
 
 ## CHIRIMEN on B2G Open Source Hardware Single Board Computer
-
+WebGPIO and WebI2C are implemented natively on B2G.
+The community designed an open source hardware board computer designed for Boot to Gecko (an open source version of Firefox OS). Board computer production has already ended.
 
 # Already Supported Devices / Parts
 
