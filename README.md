@@ -44,32 +44,30 @@ There are over thirty drivers for well-known parts/devices available for a few d
 
 |Category|Device|Picture|
 |-|-|-|
-|Analog to Digital|[ADS1015](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/ADS1015.jpg)|
-|↑|[ADS1115](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/ADS1115.jpg)|
-|ADC and DAC|[PCF8591](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/PCF8591.jpg)|
-|Temperature|[ADT7410](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/ADT7410.jpg)|
-|Thermo Graphy|[AMG8833](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/AMG8833.jpg)|
-|Temperature, Pressure, Humidity|[BME280](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/BME280.jpg)|
-|Temperature, Pressure|[BMP180](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/BMP180.jpg)|
-|Temperature, Pressure|[BMP280](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/BMP280.jpg)|
-|Laser Ranging Sensor|[GP2Y0E03](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/GP2Y0E03.jpg)|
-|Time-of-flight distance sensor|[VL53L0X](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/VL53L0X.jpg)|
-|Gesture Sensor|[Grove-Gesture](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/Grove-Gesture.jpg)|
-|Light Sensor|[Grove-Light](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/Grove-Light.jpg)|
-|OledDisplay|[Grove-OledDisplay](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/Grove-OledDisplay.jpg)|
-|Touch Sensors|[Grove-Touch](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/Grove-Touch.jpg)|
-|Color Sensor|[S11059](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/S11059.jpg)|
-|Ultraviolet (UV) light sensor |[VEML6070](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/VEML6070.jpg)|
-|Accelerometer|[Grove-Accelerometer](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/Grove-Accelerometer.jpg)|
-|Accelerometer + Gyroscope|[MPU6050](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/MPU6050.jpg)|
-|Gyro + Accelerometer + Compass|[MPU9250](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/MPU9250.jpg)|
-|Addressable full-color LED|[NEOPIXEL](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/NEOPIXEL.jpg)|
+|Analog to Digital|[ADS1015](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-ADS1015)|![](imgs/ADS1015.jpg)|
+|↑|[ADS1115](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-ADS1115)|![](imgs/ADS1115.jpg)|
+|ADC and DAC|[PCF8591](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-PCF8591)|![](imgs/PCF8591.jpg)|
+|Temperature|[ADT7410](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-ADT7410)|![](imgs/ADT7410.jpg)|
+|Thermo Graphy|[AMG8833](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-AMG8833)|![](imgs/AMG8833.jpg)|
+|Temperature, Pressure, Humidity|[BME280](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-BME280)|![](imgs/BME280.jpg)|
+|Temperature, Pressure|[BMP180](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-BMP180)|![](imgs/BMP180.jpg)|
+|Temperature, Pressure|[BMP280](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-BMP280)|![](imgs/BMP280.jpg)|
+|Laser Ranging Sensor|[GP2Y0E03](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-GP2Y0E03)|![](imgs/GP2Y0E03.jpg)|
+|Time-of-flight distance sensor|[VL53L0X](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-VL53L0X)|![](imgs/VL53L0X.jpg)|
+|Gesture Sensor|[Grove-Gesture](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-Grove-Gesture)|![](imgs/Grove-Gesture.jpg)|
+|Light Sensor|[Grove-Light](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-Grove-Light)|![](imgs/Grove-Light.jpg)|
+|OledDisplay|[Grove-OledDisplay](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-Grove-OledDisplay)|![](imgs/Grove-OledDisplay.jpg)|
+|Touch Sensors|[Grove-Touch](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-Grove-Touch)|![](imgs/Grove-Touch.jpg)|
+|Color Sensor|[S11059](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-S11059)|![](imgs/S11059.jpg)|
+|Ultraviolet (UV) light sensor |[VEML6070](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-VEML6070)|![](imgs/VEML6070.jpg)|
+|Accelerometer|[Grove-Accelerometer](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-Grove-Accelerometer)|![](imgs/Grove-Accelerometer.jpg)|
+|Accelerometer + Gyroscope|[MPU6050](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-MPU6050)|![](imgs/MPU6050.jpg)|
+|Gyro + Accelerometer + Compass|[MPU9250](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-MPU9250)|![](imgs/MPU9250.jpg)|
+|Addressable full-color LED|[NEOPIXEL](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-NEOPIXEL_I2C)|![](imgs/NEOPIXEL.jpg)|
 |↑ driver board|NEOPIXEL_I2C|![](imgs/NEOPIXEL_I2C.jpg)|
-|Multi-channel PWM Servo/LED driver|[PCA9685](https://chirimen.org/chirimen-raspi3/gc/top/examples/#)|![](imgs/PCA9685.jpg)|
-|↑|PCA9685_Servo2|![](imgs/PCA9685_Servo2.jpg)|
-
-
-
+|Multi-channel PWM/Servo/LED driver|PCA9685|![](imgs/PCA9685.jpg)|
+|↑|[PCA9685 Servo](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-PCA9685)|![](imgs/PCA9685_Servo2.jpg)|
+|↑|[PCA9685 PWM](https://chirimen.org/chirimen-raspi3/gc/top/examples/#GPIO-I2C-PWMHBridge-1)|![](imgs/PCA9685.jpg)|
 
 ## GPIO Devices
 |Category|Device|Picture|
@@ -81,4 +79,3 @@ There are over thirty drivers for well-known parts/devices available for a few d
 |↑|MX1508|![](imgs/MX1508.jpg)|
 |↑|TB6612FNG|![](imgs/TB6612FNG.jpg)|
 |[Pyro electric Sensor](https://chirimen.org/chirimen-raspi3/gc/top/examples/#GPIO-pirSensor)||![](imgs/PIR%20Sensor.jpg)|
-
