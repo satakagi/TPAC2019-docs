@@ -13,7 +13,8 @@ Except for B2G, WebI2C and WebGPIO are implemented as polyfills.
 ## CHIRIMEN with micro:bit
 ![conf microbit](https://github.com/chirimen-oh/chirimen-micro-bit/blob/master/imgs/chirimenMicrobitDiagram.png)
 
-## CHIRIMEN for TY
+## CHIRIMEN with ty51822r3
+Mbed single board computer using Nordic Semiconductor's [nRF51822](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822). The structure is almost similar to CHIRIMEN with micro: bit.
 
 ## CHIRIMEN on B2G Open Source Hardware Single Board Computer
 WebGPIO and WebI2C are implemented natively on B2G.
