@@ -13,24 +13,26 @@ Rather than practical, for prototyping and learning.
 However, such educational board computers and their use cases have a huge market for both Rasoberry PI and micro:bit, so it makes sense to make them web-friendly.
 
 # Implementations
+There are several implementations for single board computers.
+
 Except for B2G, WebI2C and WebGPIO are implemented by polyfills.
 
-## CHIRIMEN for [Raspberry PI3](https://www.raspberrypi.org/)
-Localhost Node server provides GPIO and I2C pin services. Polyfill on the browser provides WebGPIO and I2C by communicating with the Node server via WebSocket. Everything works on RPi3.
+## [CHIRIMEN for Raspberry PI3](https://github.com/chirimen-oh/chirimen-raspi3)
+Localhost Node server provides GPIO and I2C pin services. Polyfill on the browser provides WebGPIO and I2C by communicating with the Node server via WebSocket. Everything works on [Raspberry PI3](https://www.raspberrypi.org/).
 
 ![conf rpi3](https://qiita-user-contents.imgix.net/http%3A%2F%2Fgc.dfm.lrv.jp%2F0.secerror%2Farchitecture.png?ixlib=rb-1.2.2&auto=compress%2Cformat&fit=max&s=2982bb219c6a4eed787da4d5b81e12a4)
 
-## CHIRIMEN with [micro:bit](https://microbit.org/)
-The polyfill on the browser operates the micro:bit pins via Web Bluetooth. A program that provides GPIO and I2C pin operations via BLE is implemented on micro:bit. WebApps runs on a browser on a PC or smartphone.
+## [CHIRIMEN with micro:bit](https://github.com/chirimen-oh/chirimen-micro-bit)
+The polyfill on the browser operates the [micro:bit](https://microbit.org/) pins via Web Bluetooth. A program that provides GPIO and I2C pin operations via BLE is implemented on micro:bit. WebApps runs on a browser on a PC or smartphone.
 
 Instead of Web Bluetooth, Implementation via Web USB is also planned.
 
 ![conf microbit](https://github.com/chirimen-oh/chirimen-micro-bit/blob/master/imgs/chirimenMicrobitDiagram.png)
 
-## CHIRIMEN with ty51822r3
+## [CHIRIMEN with ty51822r3](https://github.com/chirimen-oh/chirimen-TY51822r3)
 Mbed single board computer using Nordic Semiconductor's [nRF51822](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822). The structure is almost similar to CHIRIMEN with micro: bit.
 
-## CHIRIMEN on B2G Open Source Hardware Single Board Computer
+## [CHIRIMEN on B2G Open Source Hardware Single Board Computer](https://github.com/chirimen-oh/release/releases)
 WebGPIO and WebI2C are implemented natively on B2G.
 The community designed an open source hardware board computer designed for Boot to Gecko (an open source version of Firefox OS). Board computer production has already ended.
 
