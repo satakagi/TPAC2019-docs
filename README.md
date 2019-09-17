@@ -3,7 +3,6 @@ API specifications that allows WebApps to use devices connected to GPIO or I2C o
 Specifications are edited by [Browsers and Robotics CG](https://www.w3.org/community/browserobo/).
 
 # [CHIRIMEN Project](https://chirimen.org)
-
 CHIRIMEN is an open source software and open source hardware community.　They are developing an environment where various electronic parts and devices can be operated from WebApps.The core of the implementation is an APIs for GPIO and I2C.
 
 They are also developing [learning/tutorial materials](https://tutorial.chirimen.org) for beginners of WebApps and IoT technology.
@@ -11,10 +10,12 @@ They are also developing [learning/tutorial materials](https://tutorial.chirimen
 # Implementations
 Except for B2G, WebI2C and WebGPIO are implemented as polyfills.
 
-## CHIRIMEN for Raspberry PI3
+## CHIRIMEN for [Raspberry PI3](https://www.raspberrypi.org/)
+Localhost Node server provides GPIO and I2C pin services. Polyfill on the browser provides WebGPIO and I2C by communicating with the Node server via WebSocket. Everything works on RPi3.
 ![conf rpi3](https://qiita-user-contents.imgix.net/http%3A%2F%2Fgc.dfm.lrv.jp%2F0.secerror%2Farchitecture.png?ixlib=rb-1.2.2&auto=compress%2Cformat&fit=max&s=2982bb219c6a4eed787da4d5b81e12a4)
 
-## CHIRIMEN with micro:bit
+## CHIRIMEN with [micro:bit](https://microbit.org/)
+The polyfill on the browser operates the micro:bit pins via Web Bluetooth. A program that provides GPIO and I2C pin operations via BLE is implemented on micro:bit. WebApps runs on a browser on a PC or smartphone.
 ![conf microbit](https://github.com/chirimen-oh/chirimen-micro-bit/blob/master/imgs/chirimenMicrobitDiagram.png)
 
 ## CHIRIMEN with ty51822r3
