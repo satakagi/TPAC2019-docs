@@ -73,7 +73,7 @@ There are over thirty drivers for well-known parts/devices available for a few d
 |Category|Device|Picture|
 |-|-|-|
 |[LED](https://chirimen.org/chirimen-raspi3/gc/top/examples/#GPIO-Blink)|LED|![](imgs/LED.jpg)|
-|[DC Motor]()|Geared Motor|![https://tutorial.chirimen.org/raspi3/section1](imgs/gearedMotor.jpg)|
+|[DC Motor](https://tutorial.chirimen.org/raspi3/section1#led--)|Geared Motor|![](imgs/gearedMotor.jpg)|
 |[Full Bridge Motor Driver](https://chirimen.org/chirimen-raspi3/gc/top/examples/#GPIO-HBridge)|L298N|![](imgs/L298N.jpg)|
 |↑|L9110S|![](imgs/L9110S.jpg)|
 |↑|MX1508|![](imgs/MX1508.jpg)|
