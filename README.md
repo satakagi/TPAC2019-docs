@@ -7,6 +7,11 @@ CHIRIMEN is an open source software and open source hardware community.　They a
 
 They are also developing [learning/tutorial materials](https://tutorial.chirimen.org) for beginners of WebApps and IoT technology.
 
+## Activity intention
+Rather than practical, for prototyping and learning.
+
+However, such educational board computers and their use cases have a huge market for both Rasoberry PI and micro:bit, so it makes sense to make them web-friendly.
+
 # Implementations
 Except for B2G, WebI2C and WebGPIO are implemented by polyfills.
 
@@ -16,6 +21,8 @@ Localhost Node server provides GPIO and I2C pin services. Polyfill on the browse
 
 ## CHIRIMEN with [micro:bit](https://microbit.org/)
 The polyfill on the browser operates the micro:bit pins via Web Bluetooth. A program that provides GPIO and I2C pin operations via BLE is implemented on micro:bit. WebApps runs on a browser on a PC or smartphone.
+
+Implementation via Web USB is also planned.
 ![conf microbit](https://github.com/chirimen-oh/chirimen-micro-bit/blob/master/imgs/chirimenMicrobitDiagram.png)
 
 ## CHIRIMEN with ty51822r3
