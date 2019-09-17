@@ -8,7 +8,7 @@ CHIRIMEN is an open source software and open source hardware community.　They a
 They are also developing [learning/tutorial materials](https://tutorial.chirimen.org) for beginners of WebApps and IoT technology.
 
 ## Activity intention
-Rather than practical, for prototyping and learning.
+Rather than practical, for prototyping and learning materials.
 
 However, such educational board computers and their use cases have a huge market for both [Raspberry PI](https://www.raspberrypi.org/) and [micro:bit](https://microbit.org/), so it makes sense to make them web-friendly.
 
