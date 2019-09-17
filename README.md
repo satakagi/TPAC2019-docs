@@ -10,7 +10,7 @@ They are also developing [learning/tutorial materials](https://tutorial.chirimen
 ## Activity intention
 Rather than practical, for prototyping and learning.
 
-However, such educational board computers and their use cases have a huge market for both Rasoberry PI and micro:bit, so it makes sense to make them web-friendly.
+However, such educational board computers and their use cases have a huge market for both [Raspberry PI](https://www.raspberrypi.org/) and [micro:bit](https://microbit.org/), so it makes sense to make them web-friendly.
 
 # Implementations
 There are several implementations for single board computers.
