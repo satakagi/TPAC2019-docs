@@ -1,6 +1,6 @@
-# Web GPIO and Web I2C
+# [Web GPIO](https://github.com/browserobo/WebGPIO) and [Web I2C](https://github.com/browserobo/WebI2C)
 API specifications that allows WebApps to use devices connected to GPIO or I2C on a single board computer.
-Specifications are edited by Browsers and Robotics CG.
+Specifications are edited by [Browsers and Robotics CG](https://www.w3.org/community/browserobo/).
 
 # CHIRIMEN Project
 
