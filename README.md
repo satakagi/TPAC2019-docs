@@ -6,7 +6,7 @@
 
 ## CHIDIMEN for micro:bit
 
-# Already Supported devices
+# Already Supported Devices / Parts
 
 |a  |b  |c  |
 |---|---|---|
