@@ -77,5 +77,5 @@ There are over thirty drivers for well-known parts/devices available for a few d
 |↑|L9110S|![](imgs/L9110S.jpg)|
 |↑|MX1508|![](imgs/MX1508.jpg)|
 |↑|TB6612FNG|![](imgs/TB6612FNG.jpg)|
-|Pyro electric Sensor||![](imgs/PIR Sensor.jpg)|
+|Pyro electric Sensor||![](imgs/PIR%20Sensor.jpg)|
 
