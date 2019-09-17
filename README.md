@@ -7,6 +7,7 @@ The core of the implementation is an API for GPIO and I2C, based on the WebGPIO 
 # Implementations
 
 ## CHIRIMEN for Raspberry PI3
+![conf rpi3](https://qiita-user-contents.imgix.net/http%3A%2F%2Fgc.dfm.lrv.jp%2F0.secerror%2Farchitecture.png)
 
 ## CHIRIMEN with micro:bit
 
