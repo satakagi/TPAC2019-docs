@@ -8,7 +8,12 @@ The core of the implementation is an API for GPIO and I2C, based on the WebGPIO 
 
 ## CHIRIMEN for Raspberry PI3
 
-## CHIDIMEN for micro:bit
+## CHIRIMEN with micro:bit
+
+## CHIRIMEN for TY
+
+## CHIRIMEN on B2G Open Source Hardware Single Board Computer
+
 
 # Already Supported Devices / Parts
 
