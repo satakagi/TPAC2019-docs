@@ -8,7 +8,7 @@ CHIRIMEN is an open source software and open source hardware community.　They a
 They are also developing [learning/tutorial materials](https://tutorial.chirimen.org) for beginners of WebApps and IoT technology.
 
 # Implementations
-Except for B2G, WebI2C and WebGPIO are implemented as polyfills.
+Except for B2G, WebI2C and WebGPIO are implemented by polyfills.
 
 ## CHIRIMEN for [Raspberry PI3](https://www.raspberrypi.org/)
 Localhost Node server provides GPIO and I2C pin services. Polyfill on the browser provides WebGPIO and I2C by communicating with the Node server via WebSocket. Everything works on RPi3.
