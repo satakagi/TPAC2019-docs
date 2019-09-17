@@ -34,11 +34,13 @@ Mbed single board computer using Nordic Semiconductor's [nRF51822](https://www.n
 WebGPIO and WebI2C are implemented natively on B2G.
 The community designed an open source hardware board computer designed for Boot to Gecko (an open source version of Firefox OS). Board computer production has already ended.
 
-# Already Supported Devices / Parts
+# Pre-prepared libraries for various Devices / Parts
 
-As learning materials for beginners, the community has developed drivers/libraries for various devices, especially for I2C devices. They are javascript libraries using WebI2C. This makes it easy to use I2C devices.　Therefore, it is common to all board computers (RPi3, micro: bit etc).
+As learning materials for beginners, the community has been developing drivers / libraries for various devices, especially for I2C devices. Since it is necessary to develop after understanding the specifications of individual I2C devices, it is difficult for beginners.
 
-There are over thirty drivers for well-known parts/devices available for a few dollars from amazon/ebay/aliexpress.
+They are javascript libraries using WebI2C. Therefore, it is common to all board computers (RPi3, micro: bit etc) under CHIRIMEN (WebI2C) environment.
+
+There are already over thirty drivers for well-known parts/devices available for a few dollars from amazon/ebay/aliexpress.
 
 ## I2C Devices
 
