@@ -64,18 +64,19 @@ There are over thirty drivers for well-known parts/devices available for a few d
 |Accelerometer + Gyroscope|MPU6050|![](imgs/MPU6050.jpg)|
 |Gyro + Accelerometer + Compass|MPU9250|![](imgs/MPU9250.jpg)|
 |Addressable full-color LED|NEOPIXEL|![](imgs/NEOPIXEL.jpg)|
-|driver board|NEOPIXEL_I2C|![](imgs/NEOPIXEL_I2C.jpg)|
+|↑ driver board|NEOPIXEL_I2C|![](imgs/NEOPIXEL_I2C.jpg)|
 |Multi-channel PWM Servo/LED driver|PCA9685|![](imgs/PCA9685.jpg)|
 |↑|PCA9685_Servo2|![](imgs/PCA9685_Servo2.jpg)|
+
 
 ## GPIO Devices
 |Category|Device|Picture|
 |-|-|-|
-|LED|LED|![](imgs/LED.jpg)|
-|DC Motor|Geared Motor|![](imgs/gearedMotor.jpg)|
-|Full Bridge Motor Driver|L298N|![](imgs/L298N.jpg)|
+|[LED](https://chirimen.org/chirimen-raspi3/gc/top/examples/#GPIO-Blink)|LED|![](imgs/LED.jpg)|
+|[DC Motor](https://chirimen.org/chirimen-raspi3/gc/top/examples/#GPIO-HBridge)|Geared Motor|![](imgs/gearedMotor.jpg)|
+|[Full Bridge Motor Driver]()|L298N|![](imgs/L298N.jpg)|
 |↑|L9110S|![](imgs/L9110S.jpg)|
 |↑|MX1508|![](imgs/MX1508.jpg)|
 |↑|TB6612FNG|![](imgs/TB6612FNG.jpg)|
-|Pyro electric Sensor||![](imgs/PIR%20Sensor.jpg)|
+|[Pyro electric Sensor](https://chirimen.org/chirimen-raspi3/gc/top/examples/#GPIO-pirSensor)||![](imgs/PIR%20Sensor.jpg)|
 
