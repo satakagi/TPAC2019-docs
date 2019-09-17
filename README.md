@@ -40,7 +40,35 @@ As learning materials for beginners, the community has developed drivers/librari
 
 There are over thirty drivers for well-known parts/devices available for a few dollars from amazon/ebay/aliexpress.
 
-|a  |b  |c  |
-|---|---|---|
-|1  |2  |3  |
-|4  |5  |6  |
+|a  |b  |c  |a  |b  |
+|---|---|---|---|---|
+|ADS1015|||![](imgs/ADS1015.jpg)|
+|ADS1115|||![](imgs/ADS1115.jpg)|
+|ADT7410|||![](imgs/ADT7410.jpg)|
+|AMG8833|||![](imgs/AMG8833.jpg)|
+|BME280|||![](imgs/BME280.jpg)|
+|BMP180|||![](imgs/BMP180.jpg)|
+|BMP280|||![](imgs/BMP280.jpg)|
+|gearedMotor|||![](imgs/gearedMotor.jpg)|
+|GP2Y0E03|||![](imgs/GP2Y0E03.jpg)|
+|Grove-Accelerometer|||![](imgs/Grove-Accelerometer.jpg)|
+|Grove-Gesture|||![](imgs/Grove-Gesture.jpg)|
+|Grove-Light|||![](imgs/Grove-Light.jpg)|
+|Grove-OledDisplay|||![](imgs/Grove-OledDisplay.jpg)|
+|Grove-Touch|||![](imgs/Grove-Touch.jpg)|
+|L298N|||![](imgs/L298N.jpg)|
+|L9110S|||![](imgs/L9110S.jpg)|
+|LED|||![](imgs/LED.jpg)|
+|MPU6050|||![](imgs/MPU6050.jpg)|
+|MPU9250|||![](imgs/MPU9250.jpg)|
+|MX1508|||![](imgs/MX1508.jpg)|
+|NEOPIXEL|||![](imgs/NEOPIXEL.jpg)|
+|NEOPIXEL_I2C|||![](imgs/NEOPIXEL_I2C.jpg)|
+|PCA9685|||![](imgs/PCA9685.jpg)|
+|PCA9685_Servo2|||![](imgs/PCA9685_Servo2.jpg)|
+|PCF8591|||![](imgs/PCF8591.jpg)|
+|PIR Sensor|||![](imgs/PIR Sensor.jpg)|
+|S11059|||![](imgs/S11059.jpg)|
+|TB6612FNG|||![](imgs/TB6612FNG.jpg)|
+|VEML6070|||![](imgs/VEML6070.jpg)|
+|VL53L0X|||![](imgs/VL53L0X.jpg)|
