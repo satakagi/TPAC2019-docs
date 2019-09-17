@@ -69,7 +69,7 @@ There are over thirty drivers for well-known parts/devices available for a few d
 |↑|[PCA9685 Servo](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-PCA9685)|![](imgs/PCA9685_Servo2.jpg)|
 |↑|[PCA9685 PWM](https://chirimen.org/chirimen-raspi3/gc/top/examples/#GPIO-I2C-PWMHBridge-1)|![](imgs/PCA9685.jpg)|
 
-## GPIO Devices
+## GPIO Parts / Devices
 |Category|Device|Picture|
 |-|-|-|
 |[LED](https://chirimen.org/chirimen-raspi3/gc/top/examples/#GPIO-Blink)|LED|![](imgs/LED.jpg)|
