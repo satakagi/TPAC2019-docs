@@ -2,11 +2,11 @@
 API specifications that allows WebApps to use devices connected to GPIO or I2C on a single board computer.
 Specifications are edited by [Browsers and Robotics CG](https://www.w3.org/community/browserobo/).
 
-# CHIRIMEN Project
+# [CHIRIMEN Project](https://chirimen.org)
 
 CHIRIMEN is an open source software and open source hardware community.　They are developing an environment where various electronic parts and devices can be operated from WebApps.The core of the implementation is an APIs for GPIO and I2C.
 
-They are also developing learning/tutorial materials for beginners of WebApps and IoT technology.
+They are also developing [learning/tutorial materials](https://tutorial.chirimen.org) for beginners of WebApps and IoT technology.
 
 # Implementations
 Except for B2G, WebI2C and WebGPIO are implemented as polyfills.
