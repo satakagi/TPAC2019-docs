@@ -2,9 +2,10 @@
 
 CHIRIMEN is an open source software and open source hardware community.　They are developing an environment where various electronic parts and devices can be operated from WebApps, and preparing tutorial materials.
 
-The core of the implementation is an API for GPIO and I2C, based on the WebGPIO and WebI2C specifications edited by Browsers and Robotics CG.
+The core of the implementation is an APIs for GPIO and I2C, based on the WebGPIO and WebI2C specifications edited by Browsers and Robotics CG.
 
 # Implementations
+Except for B2G, WebI2C and WebGPIO are implemented as polyfills.
 
 ## CHIRIMEN for Raspberry PI3
 ![conf rpi3](https://qiita-user-contents.imgix.net/http%3A%2F%2Fgc.dfm.lrv.jp%2F0.secerror%2Farchitecture.png?ixlib=rb-1.2.2&auto=compress%2Cformat&fit=max&s=2982bb219c6a4eed787da4d5b81e12a4)
