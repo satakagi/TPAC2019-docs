@@ -30,7 +30,7 @@ Instead of Web Bluetooth, Implementation via Web USB is also planned.
 ![conf microbit](https://github.com/chirimen-oh/chirimen-micro-bit/blob/master/imgs/chirimenMicrobitDiagram.png)
 
 ## [CHIRIMEN with ty51822r3](https://github.com/chirimen-oh/chirimen-TY51822r3)
-Mbed single board computer using Nordic Semiconductor's [nRF51822](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822). The structure is almost similar to CHIRIMEN with micro: bit.
+[TY51822r3](https://os.mbed.com/platforms/Switch-Science-mbed-TY51822r3/) is mbed single board computer using Nordic Semiconductor's [nRF51822](https://www.nordicsemi.com/Products/Low-power-short-range-wireless/nRF51822). The structure is almost similar to CHIRIMEN with micro: bit.
 
 ## [CHIRIMEN on B2G Open Source Hardware Single Board Computer](https://github.com/chirimen-oh/release/releases)
 WebGPIO and WebI2C are implemented natively on B2G.
