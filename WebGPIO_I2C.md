@@ -5,7 +5,7 @@ Specifications are edited by [Browsers and Robotics CG](https://www.w3.org/commu
 # [CHIRIMEN Project](https://chirimen.org)
 CHIRIMEN is an open source software and open source hardware community.　They are developing the environment where various electronic parts and devices can be operated from WebApps. The core of the implementations are APIs for GPIO and I2C based on Web GPIO and Web I2C specifications.
 
-They are also developing [learning/tutorial materials](https://tutorial.chirimen.org) for beginners of WebApps and IoT technology.
+They are also developing [learning / tutorial materials](https://tutorial.chirimen.org) for beginners of WebApps and IoT technology.
 
 ## Activity intention
 Rather than practical, for prototyping and learning materials.
