@@ -1,4 +1,6 @@
 # TPAC2019-docs
 
-- WebGPIO_I2C.md
-- MAP.md
+Satoru Takagi's input for TPAC2019
+
+- [WebGPIO and WebI2C](WebGPIO_I2C.md)
+- [Mapping Activity](MAP.md)
