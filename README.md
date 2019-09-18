@@ -39,6 +39,7 @@ The community designed an open source hardware board computer designed for Boot 
 # Demos / Examples
 
 - https://www.facebook.com/groups/chirimen/
+- https://www.facebook.com/100024271182293/videos/579375019548199/
 - https://www.youtube.com/watch?v=YVhiD-F9RH0
 - https://www.facebook.com/100024271182293/videos/579375019548199/
 - https://www.facebook.com/100024271182293/videos/pcb.578766219609079/578765122942522/?type=3&ifg=1&__tn__=HH-R&eid=ARAfMdVUfkmCGgcYKbeHdDyeli0nSRahErQPdoRG_F6zDvajTU2CWOHS1H8N7djCngPQGSrl_zDZrxCU
