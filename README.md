@@ -95,3 +95,7 @@ There are already over thirty drivers for well-known parts/devices available for
 |↑|MX1508|![](imgs/MX1508.jpg)|
 |↑|TB6612FNG|![](imgs/TB6612FNG.jpg)|
 |[Pyro electric Sensor](https://chirimen.org/chirimen-raspi3/gc/top/examples/#GPIO-pirSensor)||![](imgs/PIR%20Sensor.jpg)|
+
+# Discussion
+- The CHIRIMEN community seems to be happy with the polyfill implementations, is that okay?
+- Are these features worth the W3C recommendation process? Here, polyfills are considered a kind of implementation in the W3C recommendation process.
