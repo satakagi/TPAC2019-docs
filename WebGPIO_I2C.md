@@ -26,6 +26,8 @@ Except for B2G, WebI2C and WebGPIO are implemented by polyfills.
 ## [CHIRIMEN for Raspberry PI3](https://github.com/chirimen-oh/chirimen-raspi3)
 Localhost Node server provides GPIO and I2C pin services. Polyfill on the browser provides WebGPIO and I2C by communicating with the Node server via WebSocket. Everything works on [Raspberry PI3](https://www.raspberrypi.org/).
 
+*Any browser that can use webSocket will work, so it will work on Firefox. It will also work on higher models after RasPi3.*
+
 ![conf rpi3](https://qiita-user-contents.imgix.net/http%3A%2F%2Fgc.dfm.lrv.jp%2F0.secerror%2Farchitecture.png?ixlib=rb-1.2.2&auto=compress%2Cformat&fit=max&s=2982bb219c6a4eed787da4d5b81e12a4)
 
 ## [CHIRIMEN with micro:bit](https://github.com/chirimen-oh/chirimen-micro-bit)
