@@ -11,7 +11,7 @@ Can we see any signs of a change to decentralized Web Mapping?
 
 
 ## Urgent demand
-- Social infrastructure operator companies and local governments, such as mobile phone operators like us, widely use various other social infrastructure operational information and weather / geological information to deal with large-scale accidents and natural disasters. In view of the independence of business, this activity is preferably a decentralized system rather than relying on an aggregator company.
+- Social infrastructure operator companies and local governments, such as mobile phone operators like us, widely use various other social infrastructure operational information and weather / geological information to deal with large-scale accidents and natural disasters. In view of the independence of business, this activity is preferably the decentralized system rather than relying on an aggregator company.
 - According to [gartner's latest hype cycle for emerging technologies 2019](https://www.gartner.com/smarterwithgartner/5-trends-appear-on-the-gartner-hype-cycle-for-emerging-technologies-2019/), deentralized information technologies has been newly introduced, against the backdrop of various social situations.
 
 ## ISSUES
