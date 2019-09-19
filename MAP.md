@@ -38,4 +38,11 @@ Many javascript logic can be encapsulated in layers if organized. Layers with UI
 ![](imgs/webAppLayer.JPG)
 
 ## Various tiling logic with Web Apps
+The tiling scheme being developed at this stage within the geo community is not permanent. There are many challenges. For example, there are potentially many specifications for ERR404 and URL restrictions.
+We prefer to be able to extend this as an application rather than putting such a still unstable method in the core.
+
 ![](imgs/appTiling.JPG)
+
+### Another more efficient tiling scheme example
+We operate an efficient tiling scheme called Quad Tree Composite Tiling. Of course it is open source.
+[Slide for Quad Teee Composite Tiling](https://www.slideshare.net/totipalmate/quad-tree-composite-tiling-in-english)
