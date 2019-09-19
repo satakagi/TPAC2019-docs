@@ -21,7 +21,7 @@ Can we see any signs of a change to decentralized Web Mapping?
 - There seems to be no business model for decentralized Web Mapping, especially for current web browser vendors.
 
 ## KDDI's submission and de-jure standardization regarding Web Mapping
-- [Memmber submission](https://www.w3.org/Submission/2011/04/) on this 7th day of June, 2011 to W3C
+- [Memmber submission](https://www.w3.org/Submission/2011/04/) on 7th day of June, 2011 to W3C
   - [Tiling and Layering Module for SVG 1.2 Tiny](https://www.w3.org/Submission/2011/SUBM-SVGTL-20110607/)
 - JIS (Japan's Industrial Standard)
   - X.7197 - Geographic Information -- Map representation and services based on SVG<br>
