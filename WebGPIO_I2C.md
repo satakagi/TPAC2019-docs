@@ -77,7 +77,7 @@ There are already over thirty drivers for well-known parts/devices available for
 |Temperature, Pressure|[BMP280](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-BMP280)|![](imgs/BMP280.jpg)|
 |Laser Ranging Sensor|[GP2Y0E03](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-GP2Y0E03)|![](imgs/GP2Y0E03.jpg)|
 |Time-of-flight distance sensor|[VL53L0X](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-VL53L0X)|![](imgs/VL53L0X.jpg)|
-|Gesture Sensor|[Grove-Gesture](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-Grove-Gesture)|![](imgs/Grove-Gesture.jpg)|
+|Gesture Sensor|[Grove-Gesture](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-Grove-Gesture) (PAJ7620U2)|![](imgs/Grove-Gesture.jpg)|
 |Light Sensor|[Grove-Light](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-Grove-Light)|![](imgs/Grove-Light.jpg)|
 |OledDisplay|[Grove-OledDisplay](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-Grove-OledDisplay)|![](imgs/Grove-OledDisplay.jpg)|
 |Touch Sensors|[Grove-Touch](https://chirimen.org/chirimen-raspi3/gc/top/examples/#I2C-Grove-Touch)|![](imgs/Grove-Touch.jpg)|
