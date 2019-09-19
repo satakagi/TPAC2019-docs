@@ -9,6 +9,8 @@ CHIRIMEN is an open source software and open source hardware community.　They a
 
 They are also developing [learning / tutorial materials](https://tutorial.chirimen.org) for beginners of WebApps and IoT technology.
 
+The learning materials are used in seminars / courses for beginners such as [Web x IoT Makers Callenge](https://webiotmakers.github.io/) in Japan.
+
 ## Activity intention
 Rather than for practical IoT systems, for prototyping and learning materials / emvironments.
 
