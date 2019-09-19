@@ -13,15 +13,15 @@ Can we see any signs of a change to decentralized Web Mapping?
 ## Urgent demand
 - Social infrastructure operator companies and local governments, such as mobile phone operators like us, widely use various other social infrastructure operational information and weather / geological information to deal with large-scale accidents and natural disasters. In view of the independence of business, this activity is preferably the decentralized system rather than relying on an aggregator company.
 - According to [gartner's latest hype cycle for emerging technologies 2019](https://www.gartner.com/smarterwithgartner/5-trends-appear-on-the-gartner-hype-cycle-for-emerging-technologies-2019/), deentralized information technologies has been newly introduced, against the backdrop of various social situations.
+- Needless to say, companies and governments are responsible for the provision of social infrastructure operational status and weather information to citizens.
 
 ## ISSUES
-
 - Discontinuity between geo and web industry, geo engineers and web engineers, resulting in technology and spec mismatch
-- Absence of business model in decentralized web mapping
-
+  - From my point of view, the geo community in particular seems to stick to industry business models and industry-specific concepts.
+- There seems to be no business model for decentralized Web Mapping, especially for current web browser vendors.
 
 ## KDDI's submission and de-jure standardization regarding Web Mapping
-- [Memmber submission](https://www.w3.org/Submission/2011/04/) on this 7th day of June, 2011
+- [Memmber submission](https://www.w3.org/Submission/2011/04/) on this 7th day of June, 2011 to W3C
   - [Tiling and Layering Module for SVG 1.2 Tiny](https://www.w3.org/Submission/2011/SUBM-SVGTL-20110607/)
 - JIS (Japan's Industrial Standard)
   - X.7197 - Geographic Information -- Map representation and services based on SVG<br>
