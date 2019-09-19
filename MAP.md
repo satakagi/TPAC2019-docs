@@ -15,3 +15,13 @@ Can we see any signs of a change to decentralized Web Mapping?
 
 - Discontinuity between geo and web industry, geo engineers and web engineers, resulting in technology and spec mismatch
 - Absence of business model in decentralized web mapping
+
+
+## KDDI's submission and de-jure standardization regarding Web Mapping
+- [Memmber submission](https://www.w3.org/Submission/2011/04/) on this 7th day of June, 2011
+  - [Tiling and Layering Module for SVG 1.2 Tiny](https://www.w3.org/Submission/2011/SUBM-SVGTL-20110607/)
+- JIS (Japan's Industrial Standard)
+  - X.7197 - Geographic Information -- Map representation and services based on SVG:
+    It is equivalent specification to Tiling and Layering Module for SVG 1.2 Tiny. It also describes the correspondence between geospatial information definition in ISO TC211 and geographic data representation by SVG. [Link1](https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS%20X%207197:2012), [Link2](https://kikakurui.com/x7/X7197-2012-01.html)
+  - X.4197 - SVG Tiny 1.2
+    It is Japanese Translation of SVGT1.2) [Link1](https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS%20X%204197:2012), [Link2](https://kikakurui.com/x4/X4197-2012-01.html)
