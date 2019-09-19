@@ -99,3 +99,6 @@ There are already over thirty drivers for well-known parts/devices available for
 # Discussion
 - The CHIRIMEN community seems to be happy with the polyfill implementations, is that okay?
 - Are these features worth the W3C recommendation process? Here, polyfills are considered a kind of implementation in the W3C recommendation process.
+
+- For RPi3 version, wss is used for communication with Bridge Server to enable https communication to the cloud. For this reason, browsers that have a dedicated certificate inserted are distributed. This is part of the issue discussed in [https in Local Network CG](https://www.w3.org/community/httpslocal/).  On the other hand, there is no such problem in implementation via webBluetooth or webUSB.
+For native implementations, security considerations may be necessary.
