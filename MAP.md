@@ -31,5 +31,11 @@ Can we see any signs of a change to decentralized Web Mapping?
 
 # Updated features of SVG based Mapping
 ## Decentralized web mapping application - Web applications as Layers
-Web Mapping Apps with a large number of layers are often controlled by centralized spaghetti javascript logic.
+Web Mapping Apps with a large number of layers are often controlled by complex spaghetti javascript logic. Such huge and complex apps are not only maintenance issues but also centralized.
 ![](imgs/spaghettiApp.JPG)
+
+Many javascript logic can be encapsulated in layers if organized. Layers with UI are also beyond the concept described above.imgs/
+![](imgs/webAppLayer.JPG)
+
+## Various tiling logic with Web Apps
+![](imgs/appTiling.JPG)
