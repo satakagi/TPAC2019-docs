@@ -11,7 +11,7 @@ They are also developing [learning / tutorial materials](https://tutorial.chirim
 
 The learning materials are used in seminars / courses for beginners such as [Web x IoT Makers Callenge](https://webiotmakers.github.io/) in Japan.
 
-*Note: Web × IoT Makers Challenge is sponsored by the Ministry of Internal Affairs and Communications.*
+*Note: Web × IoT Makers Challenge is hosted by the Ministry of Internal Affairs and Communications.*
 
 ## Activity intention
 Rather than for practical IoT systems, for prototyping and learning materials / emvironments.
@@ -29,7 +29,7 @@ Localhost Node server provides GPIO and I2C pin services. Polyfill on the browse
 ![conf rpi3](https://qiita-user-contents.imgix.net/http%3A%2F%2Fgc.dfm.lrv.jp%2F0.secerror%2Farchitecture.png?ixlib=rb-1.2.2&auto=compress%2Cformat&fit=max&s=2982bb219c6a4eed787da4d5b81e12a4)
 
 ## [CHIRIMEN with micro:bit](https://github.com/chirimen-oh/chirimen-micro-bit)
-The polyfill on the browser operates the [micro:bit](https://microbit.org/) pins via Web Bluetooth. A program that provides GPIO and I2C pin operations via BLE is implemented on micro:bit. WebApps runs on a browser on a PC or smartphone.
+The polyfill on the browser operates the [micro:bit](https://microbit.org/) pins via Web Bluetooth. A program that provides GPIO and I2C pin operations via BLE (CHIRIMEN BLE bridge) is implemented on micro:bit. WebApps runs on a browser on a PC or smartphone.
 
 Instead of Web Bluetooth, Implementation via Web USB is also planned.
 
