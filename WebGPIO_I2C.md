@@ -11,6 +11,8 @@ They are also developing [learning / tutorial materials](https://tutorial.chirim
 
 The learning materials are used in seminars / courses for beginners such as [Web x IoT Makers Callenge](https://webiotmakers.github.io/) in Japan.
 
+*Note: Web × IoT Makers Challenge is sponsored by the Ministry of Internal Affairs and Communications.*
+
 ## Activity intention
 Rather than for practical IoT systems, for prototyping and learning materials / emvironments.
 
