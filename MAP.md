@@ -45,4 +45,5 @@ We prefer to be able to extend this as an application rather than putting such a
 
 ### Another more efficient tiling scheme example
 We operate an efficient tiling scheme called Quad Tree Composite Tiling. Of course it is open source.
-[Slide for Quad Teee Composite Tiling](https://www.slideshare.net/totipalmate/quad-tree-composite-tiling-in-english)
+**[Slide for Quad Teee Composite Tiling](https://www.slideshare.net/totipalmate/quad-tree-composite-tiling-in-english)**
+![](imgs/QTCM.png)
