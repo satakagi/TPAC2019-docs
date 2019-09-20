@@ -16,7 +16,7 @@ The learning materials are used in seminars / courses for beginners such as [Web
 ## Activity intention
 Rather than for practical IoT systems, for prototyping and learning materials / emvironments.
 
-However, such educational board computers and their use cases have a huge market for both [Raspberry PI](https://www.raspberrypi.org/) and [micro:bit](https://microbit.org/), so it makes sense to make them web-friendly.
+However, such educational / prototyping board computers and their use cases have a huge market for [Raspberry PI](https://www.raspberrypi.org/), [micro:bit](https://microbit.org/), LattePanda, so it makes sense to make them web-friendly.
 
 # Implementations
 There are several implementations for single board computers.
