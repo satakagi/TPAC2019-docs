@@ -40,7 +40,7 @@ Web Mapping Apps with a large number of layers are often controlled by complex s
 Many javascript logic can be encapsulated in layers if organized. Layers with UI are also beyond the concept described above.imgs/
 ![](imgs/webAppLayer.JPG)
 
-## Various tiling logic with Web Apps
+## Various tiling logics with Web Apps
 The tiling scheme being developed at this stage within the geo community is still developing and looks unstable such as TMS WMTS, vector tiling features etc. There are many issues. For example, there are potentially many specifications for ERR404 and URL restrictions.
 We prefer to be able to extend this as an application rather than putting such a still unstable method in the core.
 
