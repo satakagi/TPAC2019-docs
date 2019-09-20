@@ -108,7 +108,7 @@ There are already over thirty drivers for well-known parts/devices available for
 - The CHIRIMEN community seems to be happy with the polyfill implementations currently, is that okay?
 - Provided, they think that it is preferable that specs of APIs that access pins such as I2C and GPIO be shared with other project's implementations.
 - Are these APIs worth the W3C recommendation process? Here, polyfills should be considered a kind of implementations in the W3C recommendation process.
-- For RPi3 version, wss is used for communication with Bridge Server to enable https communication to the cloud. For this reason, browsers that have a dedicated certificate inserted are distributed. This is part of the issue discussed in [https in Local Network CG](https://www.w3.org/community/httpslocal/).  On the other hand, there is no such problem in implementation via webBluetooth or webUSB as long as relying on those security mechanisms
+- For RPi3 version, wss is used for communication with Bridge Server to enable https communication to the cloud. For this reason, browsers that have a dedicated certificate inserted are distributed. This is part of the issue discussed in [https in Local Network CG](https://www.w3.org/community/httpslocal/).  On the other hand, there is no such issues in implementation via webBluetooth or webUSB as long as relying on those security mechanisms.
 For native implementations, security considerations may be necessary.
 - Abstraction of communication paths (WebBluetooth, WebUSB, WebRTC, Native) and boards.
 - Consideration of conflicts and sharing across multiple tabs
