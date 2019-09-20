@@ -38,7 +38,7 @@ Many javascript logic can be encapsulated in layers if organized. Layers with UI
 ![](imgs/webAppLayer.JPG)
 
 ## Various tiling logic with Web Apps
-The tiling scheme being developed at this stage within the geo community is not permanent. There are many challenges. For example, there are potentially many specifications for ERR404 and URL restrictions.
+The tiling scheme being developed at this stage within the geo community is still developing and looks unstable. There are many issues. For example, there are potentially many specifications for ERR404 and URL restrictions.
 We prefer to be able to extend this as an application rather than putting such a still unstable method in the core.
 
 ![](imgs/appTiling.JPG)
