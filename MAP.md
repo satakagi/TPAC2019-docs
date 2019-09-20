@@ -29,6 +29,9 @@ Can we see any signs of a change to decentralized Web Mapping?
   - X.4197 - SVG Tiny 1.2<br>
     It is Japanese Translation of SVGT1.2) [Link1](https://webdesk.jsa.or.jp/books/W11M0090/index/?bunsyo_id=JIS%20X%204197:2012), [Link2](https://kikakurui.com/x4/X4197-2012-01.html)
 
+## Anoter inputs
+- https://www.w3.org/Graphics/SVG/WG/wiki/Proposals/ResourcePriorities_for_SVG
+
 # Updated features of SVG based Mapping
 ## Decentralized web mapping application - Web applications as Layers
 Web Mapping Apps with a large number of layers are often controlled by complex spaghetti javascript logic. Such huge and complex apps are not only maintenance issues but also centralized.
