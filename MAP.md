@@ -48,3 +48,6 @@ We operate an efficient tiling scheme called Quad Tree Composite Tiling. Of cour
 
 **Detailed [Slide for Quad Teee Composite Tiling](https://www.slideshare.net/totipalmate/quad-tree-composite-tiling-in-english)**
 ![](imgs/QTCM.png)
+
+
+# Open source activities
